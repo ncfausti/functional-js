@@ -1,0 +1,9 @@
+{
+  "name": "mostly-adequate-fjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@mostly-adequate/support": "^2.0.1"
+  }
+}
